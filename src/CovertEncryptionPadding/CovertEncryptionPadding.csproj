@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>1.0.0</Version>
+        <Authors>Samuel Lucas</Authors>
+        <Description>An implementation of the Covert Encryption randomised padding scheme.</Description>
+        <Copyright>Copyright (c) 2022 Samuel Lucas</Copyright>
+        <PackageProjectUrl>https://github.com/samuel-lucas6/CovertPadding</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/samuel-lucas6/CovertPadding</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>padding random-padding randomised-padding purb purbs</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+</Project>
